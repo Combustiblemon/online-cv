@@ -10,7 +10,14 @@
 <body>
   <div class="wrapper">
     {% include sidebar.html %}
-
+    <div class="banner">
+      <webring-banner>
+        <p>Μέλος της ομάδας <a href="https://sybil-reisz.netlify.app">Sybil Reisz</a> webring</p>
+        <a href="https://sybil-reisz.netlify.app/prev">Προηγούμενο</a>
+        <a href="https://sybil-reisz.netlify.app/random">Τυχαία σελίδα</a>
+        <a href="https://sybil-reisz.netlify.app/next">Επόμενο</a>
+      </webring-banner>
+    </div>
     <div class="main-wrapper">
         {{ content }}
     </div>
