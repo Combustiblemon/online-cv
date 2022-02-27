@@ -1,0 +1,44 @@
+---
+# Personal details
+name: Anastasios Chytiris
+address:
+- Agios Ioannis
+- Corfu-Kerkyra
+- Greece
+phone: "+30 6979202931"
+email: p16chyt@ionio.gr
+# Insert URLs without http://
+urls:
+- https://github.com/Combustiblemon
+
+# Sections
+
+
+skills:
+- Python, Javascript, C#
+- Videogame connoisseur
+- Tech Enthusiast
+
+experience:
+- years: 2019
+  employer: Grand Meditteraneo Resort and Spa
+  job: Lifeguard
+  city: Corfu
+- years: 2021--2022
+  employer: Greek Army
+  job: Lance Corporal - Administrative assistant
+  city: Rhodes
+
+education:
+- year: 2016--current
+  subject: Computer Science
+  institute: Ionian University
+  city: Corfu
+
+
+# Settings
+mainfont: Roboto-Light.ttf
+fontsize: 10pt
+lang: en-GB
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
