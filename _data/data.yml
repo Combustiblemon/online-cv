@@ -16,13 +16,13 @@ sidebar:
     phone: +30 6979202931
     citizenship:
     website:  #do not add http://
-    linkedin: 
-    xing: 
+    linkedin:
+    xing:
     github: Combustiblemon
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -59,6 +59,10 @@ experiences:
       company: Greek Army - Signal Intelligence branch
       details: |
         In charge of personnel and administrative aid to the base commander.
+    - role: Junior Web Developer
+      time: 2022 - Present
+      company: Flarmio
+      details: |
 projects:
     title: Projects
     intro: >
@@ -80,7 +84,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: Python
         level: 71%
 
       - name: Javascript & Node.js

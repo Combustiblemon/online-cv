@@ -28,9 +28,12 @@ experience:
   employer: Greek Army
   job: Lance Corporal - Administrative assistant
   city: Rhodes
+- years: 2022 - Present
+  employer: Flarmio
+  job: Junior Web Developer
 
 education:
-- year: 2016--current
+- year: 2016--Present
   subject: Computer Science
   institute: Ionian University
   city: Corfu
